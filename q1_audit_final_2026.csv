@@ -1,0 +1,4 @@
+claim_type,n,claims_open,mean_days,pct_late
+collision,22,3,24,0.2631578947368421
+comprehensive,18,1,17,0.11764705882352941
+liability,14,6,45,0.875
